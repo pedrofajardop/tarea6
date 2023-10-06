@@ -1,7 +1,3 @@
-import Header from "../componentes/Header";
-import Navbar from "../componentes/Navbar";
-
-
 
 export default function Errorpagina() {
     return(
